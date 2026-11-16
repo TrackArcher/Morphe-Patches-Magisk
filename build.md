@@ -1,4 +1,5 @@
 GoogleMaps: 26.44.06.1006895251  
+NiagaraLauncher: 1.16.28  
 
 Install [Microg](https://github.com/MorpheApp/MicroG-RE/) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
