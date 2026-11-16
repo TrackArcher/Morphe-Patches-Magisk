@@ -10,5 +10,8 @@ Patches: bearinmindcat/morphe-patches/patches-2.10.0.mpp
 [Changelog](https://github.com/bearinmindcat/morphe-patches/releases/tag/v2.10.0)
 
 CLI: MorpheApp/morphe-cli/morphe-desktop-2.2.0-all.jar  
+Patches: byehi98/okish-morphe-patches/patches-1.50.0.mpp  
+[Changelog](https://github.com/byehi98/okish-morphe-patches/releases/tag/v1.50.0)
+
 Patches: d0nj/morphe-patches/patches-1.6.0.mpp  
 [Changelog](https://github.com/d0nj/morphe-patches/releases/tag/v1.6.0)  
