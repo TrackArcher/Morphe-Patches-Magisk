@@ -33,21 +33,3 @@ version = "1.16.28"
 arch = "arm64-v8a"
 dpi = "nodpi"
 exclusive-patches = false
-
-[Buienalarm]
-app-name = "Buienalarm"
-pkg-name = "org.yoki.android.buienalarm"
-patches-source = "TrackArcher/Clauncherpod"
-rv-brand = "Morphe"
-build-mode = "module"
-direct-dlurl = "https://github.com/TrackArcher/MorpheMagisk/releases/download/nl-patches-v1/org.yoki.android.buienalarm.apk"
-exclusive-patches = false
-
-[Marktplaats]
-app-name = "Marktplaats"
-patches-source = "TrackArcher/Clauncherpod"
-rv-brand = "Morphe"
-build-mode = "module"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/marktplaats-bv/marktplaats/"
-version = "auto"
-exclusive-patches = false
