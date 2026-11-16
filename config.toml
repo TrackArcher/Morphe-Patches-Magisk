@@ -36,8 +36,10 @@ exclusive-patches = false
 
 [HeadBasketball]
 app-name = "HeadBasketball"
+pkg-name = "com.dnddream.HeadBasketball"
 patches-source = "byehi98/okish-morphe-patches"
 rv-brand = "Morphe"
 build-mode = "module"
 direct-dlurl = "https://d.apkpure.com/b/APK/com.dnddream.HeadBasketball?versionCode=471"
+version = "4.6.4"
 exclusive-patches = false
